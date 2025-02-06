@@ -1,0 +1,6 @@
+llama-index-core
+llama-index
+llama-parse
+llama-index-readers-file
+python-dotenv
+PyPDF2
