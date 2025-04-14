@@ -1,0 +1,52 @@
+era_md_files/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# files
+output/
+data/
+logs/
+.mypy_cache/
+downloads/
+output_md/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging / PyInstaller
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+*.manifest
+*.spec
+*.ipynb
+
+# PyBuilder
+.pybuilder/
+target/
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/

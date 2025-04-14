@@ -1,0 +1,16 @@
+Analyze this document and break it down into logical sections. If a section is not related to railway, remove it
+
+For each section:
+1. Don't try to make a summary of the section, just return the section as it is.
+2. Don't try to make up stuff just return the section as it is.
+2. Don't add your comments in the output.
+3. Remove general introductions, legal disclaimers, duplicate content and non-technical annexes or  Modification History and return and empty document for the section.
+4. Identify the main heading or title
+5. Include all relevant content, including text, lists, and tables
+6. Maintain the hierarchical structure
+7. Preserve any numerical data and formatting
+7. Keep related subsections together
+8. Identify where one section ends and another begins
+9. If you find a graph, diagram, flowchart return it as mermaid code
+
+Each section should be a complete, self-contained unit of information.

@@ -1,0 +1,14 @@
+Please analyze this document and break it down into logical sections. If a section is not related to railway, please remove it.
+
+For each section:
+1. Remove general introductions, legal disclaimers, duplicate content and non-technical annexes or  Modification History unless they contain essential railway-related informations and keep the return doc empty.
+2. Identify the main heading or title
+3. Include all relevant content, including text, lists, and tables
+4. Maintain the hierarchical structure
+5. Preserve any numerical data and formatting
+6. Keep related subsections together
+7. Identify where one section ends and another begins
+8. Don't add your comments in the output
+9. if you find a graph, diagram, flowchart return it as mermaid code
+
+Each section should be a complete, self-contained unit of information.
